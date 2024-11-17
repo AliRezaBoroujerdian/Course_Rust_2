@@ -1,4 +1,4 @@
-<h1 align="center">Rust Course 03</h1> by AliReza Boroujerdian
+<h1 align="center">Rust Course 02</h1> by AliReza Boroujerdian
 
 ### سرفصل‌ها:
 
