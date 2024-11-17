@@ -3,7 +3,20 @@
 ### سرفصل‌ها:
 
   - درباره‌ی دوره (مهم - در ابتدا حتماً این ویدئو را ببینید.)
-  - آشنایی با تعریف‌های پایه
+  - آشنایی به تعاریف پایه
+    - آشنایی با Compiler
+    - Keywords
+    - معرفی IDE - VSCode
+    - نصب rustup
+    - DBMS
+    - RDBMS
+    - Schema, Table, Record, Attribute
+  - Normalization
+  - Interpreter
+  - Reserved Keywords
+  - DDL, DQL, DML, DCL and TCL
+  - معرفی و دانلود AdventureWorks sample databases
+  - آموزش Restore کردن Database
   - چرا Database
   - DBMS
   - RDBMS
