@@ -4,10 +4,10 @@
 
   - درباره‌ی دوره (مهم - در ابتدا حتماً این ویدئو را ببینید.)
   - آشنایی به تعاریف پایه
-    - آشنایی با Compiler
+    - آشنایی با Compiler $${\color{yellow}Opt}$$ $${\color{lightgreen}Adv}$$ $${\color{lightblue}Imp}$$
     - Keywords
     - معرفی IDE - VSCode
-    - نصب rustup
+  - نصب rustup (a command line tool for managing Rust versions and associated tools) - rustup
     - DBMS
     - RDBMS
     - Schema, Table, Record, Attribute
