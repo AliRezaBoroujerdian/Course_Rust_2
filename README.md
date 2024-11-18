@@ -1,5 +1,55 @@
 <h1 align="center">Rust Course 02</h1> by AliReza Boroujerdian
 
+<br />
+<br />
+
+<div dir="rtl">
+  <table border="0" dir="rtl">
+   <tr>
+      <td><b style="font-size:30px">سرفصل‌ها</b></td>
+      <td><b style="font-size:30px">تگ‌ها</b></td>
+      <td><b style="font-size:30px">لینک‌ها</b></td>
+   </tr>
+   <tr>
+      <td>
+        <ul start="3" dir="rtl">
+          <li>item two</li>
+          <li>item three</li>
+        </ul>
+      </td>
+      <td>Lorem ipsum ...</td>
+      <td>Lorem ipsum ...</td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+            <li>:anchor: :pushpin: :trophy:</li>
+            <li>item three</li>
+          </ul>
+        </ul>
+      </td>
+      <td>$${\color{yellow}Optional}$$ $${\color{lightgreen}Advanced}$$ $${\color{lightblue}Important}$$</td>
+      <td><a href="url">Directory</a>-<a href="url">Try Online</a></td>
+   </tr>
+  </table>
+</div>
+
+--rtl
+
+| لینک‌ها | تگ‌ها | سرفصل‌ |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | - درباره‌ی دوره    |
+| git diff     | git diff       | git diff      |
+
+--/rtl
+
+
+
+
+
+
+
 ### سرفصل‌ها:
 
   - درباره‌ی دوره (مهم - در ابتدا حتماً این ویدئو را ببینید.)
@@ -8,7 +58,7 @@
     - Keywords
     - معرفی IDE - VSCode
   - نصب rustup (a command line tool for managing Rust versions and associated tools) - rustup
-  - ساخت اولین برنامه - Hello, world! لینک‌ها: [Directory](https://github.com/AliRezaBoroujerdian/Course_Rust_2/blob/0d02d932f94663437904dff415d6f1053c3e27cf/S001_GettingStarted/P001_hello_world/main.rs) [Gist](#categories) [Try Online](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=e8f41c82b3474d3f3c8b57bc0e72ecc4)
+  - ساخت اولین برنامه - Hello, world! لینک‌ها: [Directory](https://github.com/AliRezaBoroujerdian/Course_Rust_2/blob/0d02d932f94663437904dff415d6f1053c3e27cf/S001_GettingStarted/P001_hello_world/main.rs) [Gist](https://gist.github.com/AliRezaBoroujerdian/e8f41c82b3474d3f3c8b57bc0e72ecc4) [Try Online](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=e8f41c82b3474d3f3c8b57bc0e72ecc4)
     - DBMS
     - RDBMS
     - Schema, Table, Record, Attribute
