@@ -8,7 +8,7 @@
     - Keywords
     - معرفی IDE - VSCode
   - نصب rustup (a command line tool for managing Rust versions and associated tools) - rustup
-  - ساخت اولین برنامه - Hello, world! لینک‌ها: [Directory](https://github.com/AliRezaBoroujerdian/Course_Rust_2/blob/0d02d932f94663437904dff415d6f1053c3e27cf/S001_GettingStarted/P001_hello_world/main.rs) [Gist](#categories) [Try Online](#categories)
+  - ساخت اولین برنامه - Hello, world! لینک‌ها: [Directory](https://github.com/AliRezaBoroujerdian/Course_Rust_2/blob/0d02d932f94663437904dff415d6f1053c3e27cf/S001_GettingStarted/P001_hello_world/main.rs) [Gist](#categories) [Try Online](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=e8f41c82b3474d3f3c8b57bc0e72ecc4)
     - DBMS
     - RDBMS
     - Schema, Table, Record, Attribute
