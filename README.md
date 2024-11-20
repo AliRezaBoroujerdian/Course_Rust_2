@@ -19,7 +19,7 @@
         </ul>
       </td>
       <td>:one:</td>
-      <td>:anchor: :free:</td>
+      <td>:key: :pencil2: :cookie:</td>
       <td><a href="url">Directory</a>-<a href="url">Try Online</a></td>
    </tr>
    <tr>
