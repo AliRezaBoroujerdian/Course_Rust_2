@@ -6,30 +6,33 @@
 <div dir="rtl">
   <table border="0" dir="rtl">
    <tr>
-      <td><b style="font-size:30px">سرفصل‌ها</b></td>
-      <td><b style="font-size:30px">تگ‌ها</b></td>
-      <td><b style="font-size:30px">لینک‌ها</b></td>
+      <td><b style="font-size:30px">سرفصل</b></td>
+      <td><b style="font-size:30px">سطح</b></td>
+      <td><b style="font-size:30px">تگ</b></td>
+      <td><b style="font-size:30px">لینک</b></td>
    </tr>
    <tr>
       <td>
-        <ul start="3" dir="rtl">
+        <ul dir="rtl">
           <li>item two</li>
           <li>item three</li>
         </ul>
       </td>
-      <td>Lorem ipsum ...</td>
-      <td>Lorem ipsum ...</td>
+      <td>:one:</td>
+      <td>:anchor: :free:</td>
+      <td><a href="url">Directory</a>-<a href="url">Try Online</a></td>
    </tr>
    <tr>
       <td>
         <ul dir="rtl">
           <ul dir="rtl">
-            <li>:anchor: :pushpin: :trophy:</li>
+            <li>item two</li>
             <li>item three</li>
           </ul>
         </ul>
       </td>
-      <td>$${\color{yellow}Optional}$$ $${\color{lightgreen}Advanced}$$ $${\color{lightblue}Important}$$</td>
+      <td>:one:</td>
+      <td>:anchor: :free:</td>
       <td><a href="url">Directory</a>-<a href="url">Try Online</a></td>
    </tr>
   </table>
