@@ -31,7 +31,7 @@
           </ul>
         </ul>
       </td>
-      <td>:one:</td>
+      <td>:five:</td>
       <td>:anchor: :free:</td>
       <td><a href="url">Directory</a>-<a href="url">Try Online</a></td>
    </tr>
