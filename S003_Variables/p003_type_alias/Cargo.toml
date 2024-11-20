@@ -1,5 +1,5 @@
 [package]
-name = "type_alias"
+name = "p003_type_alias"
 version = "0.1.0"
 edition = "2021"
 
