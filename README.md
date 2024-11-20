@@ -37,9 +37,9 @@
           <li>آشنایی با تعاریف پایه</li>
         </ul>
       </td>
-      <td>:one:</td>
-      <td>:key: :pencil2: :cookie:</td>
-      <td><a href="url">Directory</a>-<a href="url">Try Online</a></td>
+      <td></td>
+      <td></td>
+      <td></a></td>
    </tr>
    <tr>
       <td>
