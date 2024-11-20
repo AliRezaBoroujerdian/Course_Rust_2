@@ -14,8 +14,103 @@
    <tr>
       <td>
         <ul dir="rtl">
-          <li>item two</li>
-          <li>item three</li>
+          <li>درباره‌ی دوره</li>
+        </ul>
+      </td>
+      <td>:one:</td>
+      <td>:key: :pencil2: :cookie:</td>
+      <td><a href="url">Directory</a>-<a href="url">Try Online</a></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <li>مسیر‌های آموزشی</li>
+        </ul>
+      </td>
+      <td>:one:</td>
+      <td>:key: :pencil2: :cookie:</td>
+      <td><a href="url">Directory</a>-<a href="url">Try Online</a></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <li>آشنایی با تعاریف پایه</li>
+        </ul>
+      </td>
+      <td>:one:</td>
+      <td>:key: :pencil2: :cookie:</td>
+      <td><a href="url">Directory</a>-<a href="url">Try Online</a></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>Compiler</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:one:</td>
+      <td>:cookie:</td>
+      <td><a href="url">Directory</a>-<a href="url">Try Online</a></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>Keywords (لغت‌های کلیدی)</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:one:</td>
+      <td>:cookie:</td>
+      <td><a href="url">Directory</a>-<a href="url">Try Online</a></td>
+   </tr>
+  <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>معرفی IDE - VSCode</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:one:</td>
+      <td></td>
+      <td><a href="url">Directory</a>-<a href="url">Try Online</a></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <li>نصب rustup</li>
+        </ul>
+      </td>
+      <td>:one:</td>
+      <td>:key:</td>
+      <td><a href="url">Directory</a>-<a href="url">Try Online</a></td>
+   </tr>
+  <tr>
+      <td>
+        <ul dir="rtl">
+          <li>ساخت اولین برنامه - Hello, world!</li>
+        </ul>
+      </td>
+      <td>:one:</td>
+      <td>:key: :pencil2: :cookie:</td>
+      <td><a href="url">Directory</a>-<a href="url">Try Online</a></td>
+   </tr>
+  <tr>
+      <td>
+        <ul dir="rtl">
+          <li>معرفی cargo</li>
+        </ul>
+      </td>
+      <td>:one:</td>
+      <td>:key: :pencil2: :cookie:</td>
+      <td><a href="url">Directory</a>-<a href="url">Try Online</a></td>
+   </tr>
+  <tr>
+      <td>
+        <ul dir="rtl">
+          <li>ساخت اولین برنامه با Hello, cargo - cargo</li>
         </ul>
       </td>
       <td>:one:</td>
