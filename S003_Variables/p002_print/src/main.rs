@@ -6,4 +6,7 @@ fn main() {
     println!("{a}");
 
     println!("a: {} and b: {}", a, b);
+
+    print!("{a}");
+    print!("{b}");
 }
