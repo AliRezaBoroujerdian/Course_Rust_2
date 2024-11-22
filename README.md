@@ -197,5 +197,131 @@
       <td></td>
       <td></td>
    </tr>
+    <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+            <li>چاپ مقدار variable</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:one:</td>
+      <td></td>
+      <td><a href="url">Directory</a>-<a href="url">Try Online</a></td>
+   </tr>
+  <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+            <li>Data Types</li>
+          </ul>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+  <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+            <ul dir="rtl">
+               <li>آموزش</li>
+            </ul>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key:</td>
+      <td><a href="url">Directory</a>-<a href="url">Try Online</a></td>
+   </tr>
+  <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+            <ul dir="rtl">
+               <li>Type Aliases</li>
+            </ul>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:cookie:</td>
+      <td><a href="url">Directory</a>-<a href="url">Try Online</a></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+            <ul dir="rtl">
+               <li>type suffix</li>
+            </ul>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:cookie:</td>
+      <td><a href="url">Directory</a>-<a href="url">Try Online</a></td>
+   </tr>
+    <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+            <li>Naming conventions (قواعد نام‌گذاری)</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key:</td>
+      <td><a href="url">Directory</a>-<a href="url">Try Online</a></td>
+   </tr>
+  <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+            <li>Mutability</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key:</td>
+      <td><a href="url">Directory</a>-<a href="url">Try Online</a></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+            <li>Scope</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key:</td>
+      <td><a href="url">Directory</a>-<a href="url">Try Online</a></td>
+   </tr>
+  <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+            <li>Constant</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key:</td>
+      <td><a href="url">Directory</a>-<a href="url">Try Online</a></td>
+   </tr>
+  <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+            <li>Shadowing</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:three:</td>
+      <td>:key:</td>
+      <td><a href="url">Directory</a>-<a href="url">Try Online</a></td>
+   </tr>
   </table>
 </div>
