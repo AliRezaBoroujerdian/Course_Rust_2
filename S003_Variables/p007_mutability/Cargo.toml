@@ -1,5 +1,5 @@
 [package]
-name = "p006_mutability"
+name = "p008_mutability"
 version = "0.1.0"
 edition = "2021"
 
