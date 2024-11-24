@@ -19,4 +19,9 @@ fn main() {
     //const mut e: i32 = 16;
 
     println!("{MY_CONSTANT_VALUE}");
+
+    let d = 12;
+
+    // error
+    //const e: i32 = d;
 }
