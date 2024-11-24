@@ -1,8 +1,10 @@
 fn main() {
-    let a: u8 = 12;
+    let a: u8 = 31;
 
-    // Type Aliases
-    type Age = u8; // Age is synonym for u8.
+    // Type aliases
+    type Age = u8; //   Age is synonym for u8
 
-    let b: Age = 13;
+    let b: Age = 31;
+
+    println!("{b}");
 }

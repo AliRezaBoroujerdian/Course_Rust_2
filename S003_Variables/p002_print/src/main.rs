@@ -1,12 +1,17 @@
 fn main() {
-    let a = 12;
-    let b = 13;
+    let a = 10;
+    let b = 12;
 
     println!("{}", a);
-    println!("{a}");
+    println!("{b}");
 
-    println!("a: {} and b: {}", a, b);
+    println!("a is {}", a);
+    println!("a is {} and b is {}", a, b);
 
-    print!("{a}");
+    print!("Hello,");
+    print!(" world!");
+
+    println!("===");
+    print!("{}", a);
     print!("{b}");
 }

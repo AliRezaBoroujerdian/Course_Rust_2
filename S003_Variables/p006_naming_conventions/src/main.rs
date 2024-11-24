@@ -1,13 +1,13 @@
 fn main() {
-    // case-sensitive
+    //Case sensitive
 
     let book = "Idiot";
-    let Book = "The Stranger";
-    let BoOK = "Sapiens";
+    let Book = "Stranger";
+    let BoOk = "Sapiens";
 
-    let book_title = "The old Man and the Sea"; // OK
-    let bookTitle = "";
+    let bookTitle = "The Old Man and the Sea";
     let BookTitle = "";
+    let book_title = ""; // OK
 
     /*
         ╔════════════════════════════╦════════════════════════════════════════════════════════╗

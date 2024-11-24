@@ -1,13 +1,18 @@
 fn main() {
-    let a: i32 = 5;
-    let b = 12;
+    let a: i32 = 6;
 
-    let c = true;
+    let b = 10;
 
-    let d: char = 'a';
+    let c: i16 = 15;
 
-    let e = "hello";
+    let d: i64;
+    d = 256;
 
-    let f: String = "hello".to_owned();
-    let g = String::from("test");
+    let e: char = 'a';
+
+    let f = "Test";
+    let g: String = "Test".to_owned();
+    let h: String = String::from("Test");
+
+    let i: bool = true;
 }
