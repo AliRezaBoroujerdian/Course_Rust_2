@@ -1,0 +1,6 @@
+[package]
+name = "p002_logical_binary_operators"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
