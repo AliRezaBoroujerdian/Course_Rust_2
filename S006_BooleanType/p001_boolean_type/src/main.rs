@@ -2,44 +2,39 @@ fn main() {
     let b_true = true;
     let b_false = false;
 
-    let mut score = 16;
-
-    let mut result = score > 10;
-    println!("line 8    => {result}");
-
-    score = 10;
-    result = score > 10;
-    println!("line 12   => {result}");
+    let mut score = 15;
+    let mut result: bool = score > 10;
+    println!("line 7 => {result}");
 
     score = 10;
     result = score >= 10;
-    println!("line 16   => {result}");
+    println!("line 11 => {result}");
 
     score = 20;
     result = score <= 20;
-    println!("line 20   => {result}");
+    println!("line 15 => {result}");
 
     score = 20;
     result = score == 20;
-    println!("line 24   => {result}");
+    println!("line 19 => {result}");
 
-    let b = true;
-    result = !b;
-    println!("line 28   => {result}");
+    let b_true = true;
+    result = !b_true;
+    println!("line 23 => {result}");
 
-    score = 2;
-    result = !(score > 10);
-    println!("line 32   => {result}");
+    score = 7;
+    result = !(score >= 10);
+    println!("line 27 => {result}");
 
-    let name_1: String = String::from("AliReza");
-    let name_2: String = String::from("AliReza");
+    let input_1 = String::from("AliReza");
+    let input_2 = String::from("AliReza");
 
-    result = name_1 == name_2;
-    println!("line 38   => {result}");
+    result = input_1 == input_2;
+    println!("line 33 => {result}");
 
-    result = !(name_1 == name_2);
-    println!("line 41   => {result}");
+    result = !(input_1 == input_2);
+    println!("line 36 => {result}");
 
-    result = name_1 != name_2;
-    println!("line 44   => {result}");
+    result = input_1 != input_2;
+    println!("line 39 => {result}");
 }
