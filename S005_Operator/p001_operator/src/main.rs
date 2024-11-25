@@ -9,7 +9,7 @@ fn main() {
     println!("a - b = {result}");
 
     result = a * b;
-    println!("a + b = {result}");
+    println!("a * b = {result}");
 
     result = a / b;
     println!("a / b = {result}");
@@ -20,20 +20,20 @@ fn main() {
     let c: f32 = 11.0;
     let d: f32 = 2.0;
 
-    let result = c / d;
+    let result: f32 = c / d;
     println!("c / d = {result}");
 
-    let result = 3 + 4 * 5;
+    let result: i32 = 3 + 4 * 5;
     println!("3 + 4 * 5 = {result}");
 
-    let result = (3 + 4) * 5;
+    let result: i32 = (3 + 4) * 5;
     println!("(3 + 4) * 5 = {result}");
 
-    let mut e = 12;
-    e = e + 10;
+    let mut e = 10;
+    e = e + 5;
     println!("{e}");
 
-    let mut f = 12;
-    f += 10; // f = f + 10;
+    let mut f = 15;
+    f += 5; // f = f + 5;
     println!("{f}");
 }
