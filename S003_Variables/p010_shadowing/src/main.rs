@@ -1,47 +1,50 @@
 fn main() {
-    // Immutable Variable
-    let a = 15;
+    //immutable
+    let a = 10;
+    println!("line 4 => {a}");
 
     // error
-    //a = 17;
+    //a = 11;
 
-    // Mutable variable
+    // mutable
     let mut b = 15;
+    b = 100;
+    println!("line 12 => {b}");
 
-    b = 32;
-    println!("line 12 => b is {b}");
+    b = b + 10;
+    println!("line 15 => {b}");
 
-    b = b + 12;
-    println!("line 15 => b is {b}");
+    //Shadowing
 
-    // Shadowing
+    let c = 12;
+    let c = 15; // first c is shadowed by the second c.
 
-    let c = 17;
-    let c = 18; // first c is shadowed by the second c.
+    println!("line 22 => {c}");
 
-    println!("line 22 => c is {c}");
+    let d = 12;
+    let d = d + 10;
 
-    let d = 156;
-    let d = d + 16;
+    println!("line 27 => {d}");
 
-    println!("line 27 => d is {d}");
-
-    let e: i32 = 12;
+    let e: i32 = 17;
     let e: i64 = 3000000000;
 
-    println!("line 32 => e is {e}");
+    println!("line 32 => {e}");
 
-    let f: i32 = 15;
-    let f: String = String::from("AliReza");
+    let f: i32 = 12;
+    let f: String = String::from("Rust");
 
-    println!("line 37 => f is {f}");
+    println!("line 37 => {f}");
 
-    let g = 12;
+    // scope
+
+    let g: i32 = 10;
+    println!("line 42 => {g}");
 
     {
-        let g = g * 2;
-        println!("line 43 => g is {g}");
+        let g: i32 = 15;
+        println!("line 46 => {g}");
     }
 
-    println!("line 46 => g is {g}");
+    println!("line 49 => {g}");
 }
