@@ -1,27 +1,27 @@
-const MY_CONSTANT_VALUE: i32 = 12;
+const MY_CONSTANT_VALUE: i32 = 10;
 
 fn main() {
-    let a: i32 = 345;
+    let a = 15;
 
-    const b: i32 = 256;
+    const b: i32 = 44;
 
     println!("{a}");
     println!("{b}");
 
     let c: i32;
-    c = 77;
+    c = 70;
+    println!("{c}");
 
     // error
-    //const d: i32;
-    //d = 18;
+    // const d: i32;
+    // d = 40;
+
+    let e = 16;
+    let f = e;
+    println!("{f}");
 
     // error
-    //const mut e: i32 = 16;
+    //const g: i32 = f;
 
     println!("{MY_CONSTANT_VALUE}");
-
-    let d = 12;
-
-    // error
-    //const e: i32 = d;
 }
