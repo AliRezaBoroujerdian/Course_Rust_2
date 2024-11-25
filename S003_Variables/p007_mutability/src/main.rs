@@ -1,15 +1,12 @@
 fn main() {
-    let a = 5;
+    let _a: i32 = 15;
 
-    // Error
-    // Variables are immutable by default.
-    //a = 6
+    // error
+    // Variables are immutable by default
+    //a = 16;
 
-    let mut b: i32 = 11;
+    let mut b: i32 = 15;
+    b = 16;
 
-    b = 43;
-    println!("{b}");
-
-    b = 50;
     println!("{b}");
 }
