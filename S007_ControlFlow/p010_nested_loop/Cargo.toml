@@ -1,0 +1,6 @@
+[package]
+name = "p010_nested_loop"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
