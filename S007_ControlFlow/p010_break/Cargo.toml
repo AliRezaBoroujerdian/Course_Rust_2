@@ -1,0 +1,6 @@
+[package]
+name = "p010_break"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
