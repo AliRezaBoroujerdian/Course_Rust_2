@@ -1,5 +1,6 @@
 fn main() {
     let mut inputNumber: i32;
+
     loop {
         println!("Choose an option:");
         println!();
@@ -16,7 +17,7 @@ fn main() {
         if inputNumber == 1 || inputNumber == 2 || inputNumber == 3 {
             break;
         } else {
-            println!("Invalid input.")
+            println!("Invalid input.");
         }
     }
 
