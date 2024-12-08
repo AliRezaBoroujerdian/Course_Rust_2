@@ -3,8 +3,8 @@ fn main() {
 
     let number = 3;
 
-    if number < 2 {
-        println!("condition was true");
+    if number < 5 {
+        println!("condition was true.");
     }
 
     println!("end");

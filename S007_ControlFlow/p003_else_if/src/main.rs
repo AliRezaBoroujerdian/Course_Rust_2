@@ -1,5 +1,5 @@
 fn main() {
-    let number = 6;
+    let number = 17;
 
     if number % 2 == 0 {
         println!("number is divisible by 2");
