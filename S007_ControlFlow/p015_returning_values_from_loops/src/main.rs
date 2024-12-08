@@ -1,10 +1,9 @@
 fn main() {
-    let value = loop {
-        // while => error
+    let result = loop {
         println!("begin");
         break 6;
         println!("end");
-    }; // <= ;;;;;;;;;;;
+    };
 
-    println!("{value}");
+    println!("{result}");
 }
