@@ -1,33 +1,31 @@
 fn main() {
     // loop {
-    //     println!("Loop 1");
+    //     println!("loop 1");
     //     loop {
-    //         println!("Loop 2");
+    //         println!("loop 2");
     //         break;
     //     }
     // }
 
     // 'first_loop: loop {
-    //     println!("Loop 1");
+    //     println!("loop 1");
     //     loop {
-    //         println!("Loop 2");
+    //         println!("loop 2");
     //         break 'first_loop;
     //     }
     // }
 
     'first_loop: loop {
-        println!("Loop 1");
+        println!("loop 1");
         loop {
-            println!("Loop 2");
+            println!("loop 2");
             'third_loop: loop {
-                println!("Loop 3");
+                println!("loop 3");
                 loop {
-                    println!("Loop 4");
+                    println!("loop 4");
                     break 'third_loop;
                 }
             }
         }
     }
-
-    println!("end");
 }
