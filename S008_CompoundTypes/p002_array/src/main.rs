@@ -42,4 +42,20 @@ fn main() {
         println!("score {} => {}", index + 1, scores[index]);
         index += 1;
     }
+
+    println!("===========================");
+
+    let mut index = 0;
+
+    while index < scores.len() {
+        scores[index] = 12;
+        index += 1;
+    }
+
+    let mut index = 0;
+
+    while index < scores.len() {
+        println!("score {} => {}", index + 1, scores[index]);
+        index += 1;
+    }
 }
