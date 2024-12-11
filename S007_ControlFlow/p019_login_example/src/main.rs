@@ -27,4 +27,5 @@ fn main() {
     }
 
     println!("login");
+    //https://code.visualstudio.com/docs/languages/rust#_debugging
 }

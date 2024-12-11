@@ -1,24 +1,21 @@
 fn main() {
-    let my_array = [1, 5, 66, 5, 33];
+    let my_array = [12, 15, 9];
 
-    let cities = ["Tehran", "Shiraz", "Isfahan"];
+    let first_element = my_array[0];
 
-    let number: i32 = 6;
-    let scores: [i32; 4] = [108, 113, 101, 118]; // fix 4
+    println!("{first_element}");
+    println!("{}", my_array[0]);
+    println!("{}", my_array[1]);
+    println!("{}", my_array[2]);
 
-    println!("{}", scores[0]);
-    println!("{}", scores[1]);
+    let cities = ["Tehran", "Shiraz"];
 
-    let third = scores[2];
+    println!("{}", cities[0]);
 
-    println!("{third}");
+    let number: i32 = 12;
+    let scores: [i32; 5] = [118, 115, 101, 100, 110];
 
-    let array = [3; 5];
+    let numbers = [3; 5];
 
-    println!("{}", array[0]);
-    println!("{}", array[1]);
-    println!("{}", array[2]);
-
-    // println!("{:?}", scores);
-    // println!("{:#?}", scores);
+    println!("{}", numbers[0]);
 }

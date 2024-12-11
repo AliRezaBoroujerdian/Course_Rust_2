@@ -1,11 +1,11 @@
 fn main() {
     let mut scores: [i32; 4] = [0; 4];
-    scores[0] = 100;
-    scores[1] = 113;
+    scores[0] = 118;
+    scores[1] = 115;
     scores[2] = 101;
-    scores[3] = 118;
+    scores[3] = 100;
 
-    // let mut index = 0;
+    //let mut index = 0;
 
     // while index < scores.len() {
     //     println!("{}", scores[index]);
@@ -16,11 +16,13 @@ fn main() {
         println!("{element}");
     }
 
-    println!("==========");
+    println!("===================");
 
     for value in scores {
         println!("{value}");
     }
+
+    println!("===================");
 
     // for element in scores {
     //     element = 12;
