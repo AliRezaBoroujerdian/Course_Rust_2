@@ -13,9 +13,9 @@ fn main() {
 
     println!("=================");
 
-    let point2D: (i32, i32) = (3, 4);
+    let point_2d: (i32, i32) = (3, 4);
 
-    let (x, y) = point2D;
+    let (x, y) = point_2d;
 
     println!("x = {}, y = {}", x, y);
 }
