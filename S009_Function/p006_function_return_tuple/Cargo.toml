@@ -1,0 +1,6 @@
+[package]
+name = "p006_function_return_tuple"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
