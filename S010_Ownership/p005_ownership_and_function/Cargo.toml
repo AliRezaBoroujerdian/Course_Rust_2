@@ -1,0 +1,6 @@
+[package]
+name = "p005_ownership_and_function"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
