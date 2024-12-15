@@ -3,7 +3,7 @@ fn main() {
 
     say_hello(String::from("AliReza"));
 
-    let name = String::from("Bruce");
+    let name = String::from("Eren");
     say_hello(name);
 
     say_hello(String::from("Harley"));
