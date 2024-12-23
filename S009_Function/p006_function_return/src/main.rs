@@ -1,6 +1,8 @@
 fn main() {
-    let result = add(10, 15);
-    println!("{result}");
+    let r: i32 = add(3, 4);
+    println!("{r}");
+
+    println!("{}", add(6, 9));
 }
 
 // fn add(x: i32, y: i32) -> i32 {

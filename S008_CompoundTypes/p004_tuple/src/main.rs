@@ -20,11 +20,11 @@ fn main() {
     println!("x = {}, y = {}", x, y);
 
     let unit = (); // We can consider unit() to be an empty tuple.
-
-    /*
-       Similarly, unit () is a type created by the Move source language in order to
-       be expression based. The unit value () does not result in any runtime value.
-       We can consider unit() to be an empty tuple, and any restrictions that apply to
-       tuples also apply to unit.
-    */
 }
+
+/*
+   Similarly, unit () is a type created by the Move source language in order to
+   be expression based. The unit value () does not result in any runtime value.
+   We can consider unit() to be an empty tuple, and any restrictions that apply to
+   tuples also apply to unit.
+*/

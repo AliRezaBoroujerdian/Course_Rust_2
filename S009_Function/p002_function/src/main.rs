@@ -4,11 +4,12 @@ fn main() {
     say_hello();
     say_hello();
     say_hello();
+    say_hello();
+    say_hello();
 
     println!("end");
 }
 
 fn say_hello() {
-    // println!("Hello");
     println!("Hi!");
 }

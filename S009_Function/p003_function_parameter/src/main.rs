@@ -12,5 +12,5 @@ fn main() {
 }
 
 fn say_hello(name: String) {
-    println!("Hello, {name}");
+    println!("Hi {}!", name);
 }
