@@ -6,10 +6,10 @@ fn main() {
 
     do_something(&mut s);
 
-    //s = String::from("value");
-    // println!("{}", s);
+    s = String::from("value");
+    println!("{}", s);
 
-    println!("{}", r1);
+    //println!("{}", r1);
     //println!("{}", r2);
     //println!("{}, {}", r1, r2);
 }
