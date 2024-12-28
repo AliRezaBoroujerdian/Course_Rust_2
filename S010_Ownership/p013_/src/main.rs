@@ -10,7 +10,7 @@ fn main() {
 }
 
 fn swap(x: &mut i32, y: &mut i32) {
-    let temp = *x;
+    let temp: i32 = *x;
     *x = *y;
     *y = temp;
 }

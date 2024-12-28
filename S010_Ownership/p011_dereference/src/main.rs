@@ -6,10 +6,9 @@ fn main() {
     println!("{}", s);
 
     let r1 = &mut s;
-    *r1 = String::from("Rust");
+    *r1 = String::from("value");
 
+    //.push_str(" m");
     println!("{}", r1);
     println!("{}", *r1);
-    println!("{}", &r1);
-    println!("{}", *&r1);
 }
