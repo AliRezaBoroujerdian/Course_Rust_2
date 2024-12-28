@@ -18,7 +18,6 @@ fn main() {
      */
 
     let r1 = &s1;
-
     let slice: &str = &s1[0..5]; // &str string slice
     println!("{slice}");
 
@@ -33,7 +32,7 @@ fn main() {
 
     let len = s1.len();
 
-    let slice = &s1[7..];
+    let slice = &s1[7..len];
     println!("{slice}");
 
     // let slice = &s1[7..14];
