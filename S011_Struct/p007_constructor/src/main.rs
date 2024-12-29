@@ -2,17 +2,18 @@ struct Rectangle {
     width: u32,
     height: u32,
 }
+
 impl Rectangle {
     /*
      * Constructor
      */
 
     // fn new(width: u32, height: u32) -> Rectangle {
-    //     let rect1 = Rectangle {
+    //     let rect = Rectangle {
     //         width: width,
     //         height: height,
     //     };
-    //     return rect1;
+    //     return rect;
     // }
 
     // fn new(width: u32, height: u32) -> Rectangle {

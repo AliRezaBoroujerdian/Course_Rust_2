@@ -11,10 +11,9 @@ fn main() {
         price: 13.99,
         pages: 128,
         in_stock: true,
-    }; // b1 => instance
+    }; // b1 => Instance
 
     let price = b1.price;
-
     println!("{}", b1.name);
 
     let mut b2 = Book {
@@ -26,7 +25,7 @@ fn main() {
 
     b2.price = 9.99;
 
-    let s = b2.name;
+    let name = b2.name;
     //println!("{}", b2.name);
     println!("{}", b2.price);
 }

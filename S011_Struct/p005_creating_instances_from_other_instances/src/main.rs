@@ -15,8 +15,8 @@ fn main() {
 
     let b2 = Book { price: 8.0, ..b1 };
 
-    //println!("{}", b1.name);
     println!("{}", b2.name);
+    //println!("{}", b1.name);
 
     println!("{}", b1.price);
 }

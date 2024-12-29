@@ -97,7 +97,7 @@ fn main() {
         rect2_area
     );
 
-    if rect1.width() {
+    if rect2.width() {
         println!("The rectangle2 has a nonzero width; it is {}", rect2.width);
     }
 

@@ -51,6 +51,7 @@ fn main() {
 
     let mut my_date = Date::new().update_day(12).update_year(2025);
     println!("{}-{}-{}", my_date.year, my_date.month, my_date.day);
+
     // my_date.update_month(3);
     // println!("{}-{}-{}", my_date.year, my_date.month, my_date.day);
 

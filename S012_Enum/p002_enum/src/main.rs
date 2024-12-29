@@ -24,7 +24,7 @@ fn main() {
     let cmd = Command::ChangeColor(255, 0, 0);
     let cmd = Command::Replace {
         from: String::from("a"),
-        to: String::from("ba"),
+        to: String::from("b"),
     };
 
     Command::print_menu();
