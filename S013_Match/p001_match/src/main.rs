@@ -1,5 +1,5 @@
 fn main() {
-    let day_number = 15;
+    let day_number = 1;
 
     match day_number {
         1 => println!("Sat"),
