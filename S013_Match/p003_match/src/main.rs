@@ -1,13 +1,23 @@
 fn main() {
-    let age = 25;
+    let day_number = 2;
 
-    match age {
-        1 => println!("Happy 1st Birthday!"),
-        13..=19 => println!("You are a teenager!"),
-        x => print_age(x),
-    }
+    let result: String = get_day_name_by_number(day_number);
+
+    println!("{}", result);
 }
 
-fn print_age(age: i32) {
-    println!("You are {age} years old!");
+fn get_day_name_by_number(day_number: i32) -> String {
+    match day_number {
+        1 => String::from("Sat"),
+        2 => {
+            println!("test");
+            String::from("Sun")
+        } // first simple then turn to this.
+        3 => String::from("Mon"),
+        4 => String::from("Tue"),
+        5 => String::from("Wed"),
+        6 => String::from("Thu"),
+        7 => String::from("Fri"),
+        _ => String::from("Invalid day number"),
+    }
 }
