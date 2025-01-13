@@ -14,7 +14,7 @@ fn main() {
     }
     match z {
         Some(value) => println!("z = {}", value),
-        None => {}
+        None => println!("-"),
     }
 
     let mut result: i32;
