@@ -9,10 +9,7 @@ fn main() {
 fn get_day_name_by_number(day_number: i32) -> String {
     match day_number {
         1 => String::from("Sat"),
-        2 => {
-            println!("test");
-            String::from("Sun")
-        }
+        2 => String::from("Sun"),
         3 => String::from("Mon"),
         4 => String::from("Tue"),
         5 => String::from("Wed"),

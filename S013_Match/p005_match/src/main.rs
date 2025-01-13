@@ -1,5 +1,5 @@
 fn main() {
-    let age = 25;
+    let age = 50;
 
     match age {
         1 => println!("Happy 1st Birthday!"),
