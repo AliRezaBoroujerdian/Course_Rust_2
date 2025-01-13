@@ -12,7 +12,7 @@ fn get_day_name_by_number(day_number: i32) -> String {
         2 => {
             println!("test");
             String::from("Sun")
-        } // first simple then turn to this.
+        }
         3 => String::from("Mon"),
         4 => String::from("Tue"),
         5 => String::from("Wed"),
