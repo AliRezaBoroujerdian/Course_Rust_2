@@ -1,5 +1,5 @@
 fn main() {
-    let header = get_header(0).unwrap();
+    let header = get_header(1).unwrap();
     println!("{}", header);
 }
 

@@ -4,7 +4,7 @@ fn main() {
 }
 
 fn get_header(user_id: u32) -> Result<String, String> {
-    let username = get_username(user_id)?;
+    let username: String = get_username(user_id)?;
 
     let mut header = String::from("=========== Hi ");
     header.push_str(&username);

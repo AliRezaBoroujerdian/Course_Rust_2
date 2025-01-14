@@ -15,8 +15,8 @@ fn main() {
     let quotient = division(10.0, divisor).expect("Something went wrong");
     println!("{}", quotient);
 
-    let quotient = division(10.0, 0.0).expect("Something went wrong");
-    println!("{}", quotient);
+    // let quotient = division(10.0, 0.0).expect("Something went wrong");
+    // println!("{}", quotient);
 }
 
 fn division(dividend: f64, divisor: f64) -> Result<f64, String> {
