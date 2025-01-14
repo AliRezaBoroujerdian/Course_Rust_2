@@ -49,4 +49,13 @@ fn main() {
     for s in &v1 {
         println!("{}", s);
     }
+
+    println!("===================");
+
+    let mut v6 = vec!["One", "Two", "Three"];
+    v6.remove(1);
+
+    for s in &v6 {
+        println!("{}", s);
+    }
 }
