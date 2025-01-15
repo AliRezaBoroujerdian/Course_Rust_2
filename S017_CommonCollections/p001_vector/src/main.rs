@@ -6,7 +6,7 @@ fn main() {
     v1.push(String::from("Three"));
 
     let mut v2 = Vec::new();
-    v2.push("Rust");
+    v2.push(String::from("Rust"));
 
     let mut v3 = Vec::new();
     v3.push(1);
@@ -28,7 +28,7 @@ fn main() {
     let s3 = &v1[0]; // can panic
     println!("s3 => {}", s3);
 
-    let s4 = v1.get(0);
+    let s4 = v1.get(12);
 
     if let Some(s) = s4 {
         println!("s4 => {}", s);
@@ -55,7 +55,7 @@ fn main() {
     let mut v6 = vec!["One", "Two", "Three"];
     v6.remove(1);
 
-    for s in &v6 {
+    for s in v6 {
         println!("{}", s);
     }
 }
