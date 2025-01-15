@@ -1,5 +1,3 @@
-use std::fmt::format;
-
 fn main() {
     let s = "AliReza";
     println!("Hi {}!", s);
@@ -36,7 +34,7 @@ fn main() {
     //     )"
     println!("{}", s);
 
-    let s = format!("{1} {} {0} {} {1}", 1, 2); // => "2 1 1 2"
+    let s = format!("{1} {} {0} {} {1}", 1, 2); // => "2 1 1 2 2"
     println!("{}", s);
 
     let s = format!("{name} {}", 1, name = 2); // => "2 1"
@@ -45,13 +43,15 @@ fn main() {
     let s = format!("{a} {c} {b}", a = "a", b = 'b', c = 3); // => "a 3 b"
     println!("{}", s);
 
+    let s = format!("Hello {{}}"); //"Hello {}"
+    println!("{}", s);
+
     //https://doc.rust-lang.org/std/fmt/
 
     let username = String::from("AliReza");
     let mut header = String::from("=========== Hi ");
     header.push_str(&username);
     header.push_str("! ===========");
-
     println!("{}", header);
 
     let header = format!("=========== Hi {}! ===========", username);
