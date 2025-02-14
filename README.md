@@ -152,7 +152,7 @@
       </td>
       <td>:two:</td>
       <td>:cookie:</td>
-      <td><a href="https://github.com/AliRezaBoroujerdian/Course_Rust_2/blob/0d02d932f94663437904dff415d6f1053c3e27cf/S001_GettingStarted/P001_hello_world/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=e8f41c82b3474d3f3c8b57bc0e72ecc4">Try Online</a></td>
+      <td><a href="https://github.com/AliRezaBoroujerdian/Course_Rust_2/blob/main/S001_GettingStarted/p001_hello_world/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=e8f41c82b3474d3f3c8b57bc0e72ecc4">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -162,7 +162,7 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:one:</td>
       <td>:key:</td>
       <td></td>
    </tr>
@@ -186,8 +186,8 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
-      <td>:key:</td>
+      <td>:one:</td>
+      <td>:key: :pencil2:</td>
       <td></td>
    </tr>
    <tr>
