@@ -890,6 +890,362 @@
       <td>:key:</td>
       <td></td>
    </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <li>Struct</li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>مبانی</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key:</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>tuple structs و Unit-Like Structs</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key:</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>ساختن Instancce از روی Instance</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key:</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>Method - impl Blocks - Associated Functions</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key:</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>Constructor</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key:</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>Method cascading</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key:</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>تمرین ساخت triangle</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key:</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <li>Enum</li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>Enum</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key:</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>Match</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key:</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>Option</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key:</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>If let</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key:</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <li>Error Handling</li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>مبانی</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key:</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>!Unrecoverable Errors - panic</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key:</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>Recoverable Errors - Result</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key:</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>unwrap - expect</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key:</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>Propagating Errors و  ? Operator</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key:</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <li>Common collection</li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>Vector</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key:</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <li>ساخت رشته</li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>Format</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key:</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <li>پکیج‌ها</li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>نصب پکیج‌ها - crates</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key:</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>استفاده از use</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key:</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <li>استفاده از هوش مصنوعی</li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>استفاده از هوش مصنوعی رایگان Copilot</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key:</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <li>پروژه‌ی پایان دوره</li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>پروژه‌ی پایان ترم</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key:</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>صحبت پایانی</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key:</td>
+      <td></td>
+   </tr>
 
 
 
