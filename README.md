@@ -138,7 +138,7 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:one:</td>
       <td>:key:</td>
       <td></td>
    </tr>
@@ -151,7 +151,7 @@
         </ul>
       </td>
       <td>:two:</td>
-      <td>:key:</td>
+      <td>:cookie:</td>
       <td></td>
    </tr>
    <tr>
