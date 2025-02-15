@@ -211,7 +211,7 @@
         </ul>
       </td>
       <td>:two:</td>
-      <td>:key:</td>
+      <td>:key: :pencil2:</td>
       <td><a href="https://github.com/AliRezaBoroujerdian/Course_Rust_2/blob/main/S001_GettingStarted/q001_/README.md">Directory</td>
    </tr>
   <tr>
