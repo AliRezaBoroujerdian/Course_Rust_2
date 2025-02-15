@@ -188,7 +188,7 @@
       </td>
       <td>:one:</td>
       <td>:key: :pencil2:</td>
-      <td></td>
+      <td><a href="https://github.com/AliRezaBoroujerdian/Course_Rust_2/blob/main/S001_GettingStarted/p003_/README.md">Directory</td>
    </tr>
    <tr>
       <td>
@@ -201,6 +201,18 @@
       <td>:two:</td>
       <td>:key:</td>
       <td></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>پرسش</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key:</td>
+      <td><a href="https://github.com/AliRezaBoroujerdian/Course_Rust_2/blob/main/S001_GettingStarted/q001_/README.md">Directory</td>
    </tr>
   <tr>
       <td>
