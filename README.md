@@ -268,9 +268,33 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:one:</td>
       <td>:key:</td>
-      <td></td>
+      <td><a href="https://github.com/AliRezaBoroujerdian/Course_Rust_2/blob/main/S003_Variables/p003_data_types/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=7ff1a7688ae7d435d2a344a97fb0970e">Try Online</a></td>
+   </tr>
+  <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>Type Aliases</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:cookie:</td>
+      <td><a href="https://github.com/AliRezaBoroujerdian/Course_Rust_2/blob/main/S003_Variables/p004_type_alias/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=3cdf07db5187253e72e09a548704e28e">Try Online</a></td>
+   </tr>
+  <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>Type suffix</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:three:</td>
+      <td>:cookie:</td>
+      <td><a href="https://github.com/AliRezaBoroujerdian/Course_Rust_2/blob/main/S003_Variables/p005_type_suffix/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=79d4c29af8f81d87f7454b6961701155">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -282,7 +306,7 @@
       </td>
       <td>:two:</td>
       <td>:key:</td>
-      <td></td>
+      <td><a href="https://github.com/AliRezaBoroujerdian/Course_Rust_2/blob/main/S003_Variables/p006_naming_conventions/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=9b8da0438ff3b751757abc11709f5790">Try Online</a></td>
    </tr>
    <tr>
       <td>
