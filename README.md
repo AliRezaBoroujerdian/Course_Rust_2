@@ -198,8 +198,8 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
-      <td>:key:</td>
+      <td>:one:</td>
+      <td></td>
       <td></td>
    </tr>
    <tr>
