@@ -200,7 +200,7 @@
       </td>
       <td>:one:</td>
       <td></td>
-      <td></td>
+      <td><a href="https://github.com/AliRezaBoroujerdian/Course_Rust_2/blob/main/S002_Comment/p001_comment/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=3e9bff745b3ce6c0104cc1b99cb16ad4">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -232,8 +232,8 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
-      <td>:key:</td>
+      <td>:one:</td>
+      <td></td>
       <td></td>
    </tr>
    <tr>
@@ -244,9 +244,9 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:one:</td>
       <td>:key:</td>
-      <td></td>
+      <td><a href="https://github.com/AliRezaBoroujerdian/Course_Rust_2/blob/main/S003_Variables/p001_create_a_variable/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=98df43782293d55bbc0fa73af46a1739">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -256,9 +256,9 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:one:</td>
       <td>:key:</td>
-      <td></td>
+      <td><a href="https://github.com/AliRezaBoroujerdian/Course_Rust_2/blob/main/S003_Variables/p002_print/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=9b682fe1fa2ce651300c6956888edce7">Try Online</a></td>
    </tr>
    <tr>
       <td>
