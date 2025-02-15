@@ -5,7 +5,7 @@
 <br />
 <br />
 <details dir="rtl">
-  <summary>راهنما</summary>
+  <summary>برای مشاهده‌ی راهنمایی اینجا کلیک کنید</summary>
   
   استفاده از دستور زیر:
   ```rust
