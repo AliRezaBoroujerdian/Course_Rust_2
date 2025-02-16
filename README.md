@@ -318,7 +318,7 @@
       </td>
       <td>:two:</td>
       <td>:key:</td>
-      <td></td>
+      <td><a href="https://github.com/AliRezaBoroujerdian/Course_Rust_2/blob/main/S003_Variables/p007_mutability/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=d80fc018379b1aa03d16a3680b1fd380">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -330,7 +330,7 @@
       </td>
       <td>:two:</td>
       <td>:key:</td>
-      <td></td>
+      <td><a href="S003_Variables/p008_scope/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=ddf1776e8db3cf4092c0653af433a950">Try Online</a>
    </tr>
    <tr>
       <td>
@@ -352,7 +352,7 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:four:</td>
       <td>:key:</td>
       <td></td>
    </tr>
