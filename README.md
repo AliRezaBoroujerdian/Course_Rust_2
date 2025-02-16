@@ -329,8 +329,8 @@
         </ul>
       </td>
       <td>:two:</td>
-      <td>:key:</td>
-      <td><a href="S003_Variables/p008_scope/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=ddf1776e8db3cf4092c0653af433a950">Try Online</a>
+      <td></td>
+      <td><a href="S003_Variables/p008_scope/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=ddf1776e8db3cf4092c0653af433a950">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -342,7 +342,7 @@
       </td>
       <td>:two:</td>
       <td>:key:</td>
-      <td><a href="S003_Variables/p009_constant/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=6aecf65ad61ceee3b639ad7460c5803f">Try Online</a>
+      <td><a href="S003_Variables/p009_constant/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=6aecf65ad61ceee3b639ad7460c5803f">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -354,7 +354,8 @@
       </td>
       <td>:four:</td>
       <td>:key:</td>
-      <td></td>
+      <td><a href="S003_Variables/p010_shadowing/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=daf54cf0cab245b8fd7493dfe0d41efe">Try Online</a></td>
+   </tr>
    </tr>
    <tr>
       <td>
@@ -364,8 +365,7 @@
       </td>
       <td></td>
       <td></td>
-      <td><a href="S003_Variables/p010_shadowing/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=daf54cf0cab245b8fd7493dfe0d41efe">Try Online</a>
-   </tr>
+      <td></td>
    <tr>
       <td>
         <ul dir="rtl">
@@ -374,8 +374,8 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
-      <td>:key:</td>
+      <td>:one:</td>
+      <td></td>
       <td></td>
    </tr>
    <tr>
