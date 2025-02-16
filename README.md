@@ -152,7 +152,7 @@
       </td>
       <td>:two:</td>
       <td>:cookie:</td>
-      <td><a href="https://github.com/AliRezaBoroujerdian/Course_Rust_2/blob/main/S001_GettingStarted/p001_hello_world/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=e8f41c82b3474d3f3c8b57bc0e72ecc4">Try Online</a></td>
+      <td><a href="S001_GettingStarted/p001_hello_world/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=e8f41c82b3474d3f3c8b57bc0e72ecc4">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -176,7 +176,7 @@
       </td>
       <td>:two:</td>
       <td>:key:</td>
-      <td><a href="https://github.com/AliRezaBoroujerdian/Course_Rust_2/blob/main/S001_GettingStarted/p002_hello_cargo/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=6411f01df9385e945431fc510c6c1be4">Try Online</a></td>
+      <td><a href="S001_GettingStarted/p002_hello_cargo/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=6411f01df9385e945431fc510c6c1be4">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -188,7 +188,7 @@
       </td>
       <td>:one:</td>
       <td>:key: :pencil2:</td>
-      <td><a href="https://github.com/AliRezaBoroujerdian/Course_Rust_2/blob/main/S001_GettingStarted/p003_/README.md">Directory</td>
+      <td><a href="S001_GettingStarted/p003_/README.md">Directory</td>
    </tr>
    <tr>
       <td>
@@ -200,7 +200,7 @@
       </td>
       <td>:one:</td>
       <td></td>
-      <td><a href="https://github.com/AliRezaBoroujerdian/Course_Rust_2/blob/main/S002_Comment/p001_comment/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=3e9bff745b3ce6c0104cc1b99cb16ad4">Try Online</a></td>
+      <td><a href="S002_Comment/p001_comment/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=3e9bff745b3ce6c0104cc1b99cb16ad4">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -212,7 +212,7 @@
       </td>
       <td>:one:</td>
       <td>:key: :pencil2:</td>
-      <td><a href="https://github.com/AliRezaBoroujerdian/Course_Rust_2/blob/main/S001_GettingStarted/q001_/README.md">Directory</td>
+      <td><a href="S001_GettingStarted/q001_/README.md">Directory</td>
    </tr>
   <tr>
       <td>
@@ -246,7 +246,7 @@
       </td>
       <td>:one:</td>
       <td>:key:</td>
-      <td><a href="https://github.com/AliRezaBoroujerdian/Course_Rust_2/blob/main/S003_Variables/p001_create_a_variable/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=98df43782293d55bbc0fa73af46a1739">Try Online</a></td>
+      <td><a href="S003_Variables/p001_create_a_variable/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=98df43782293d55bbc0fa73af46a1739">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -258,7 +258,7 @@
       </td>
       <td>:one:</td>
       <td>:key:</td>
-      <td><a href="https://github.com/AliRezaBoroujerdian/Course_Rust_2/blob/main/S003_Variables/p002_print/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=9b682fe1fa2ce651300c6956888edce7">Try Online</a></td>
+      <td><a href="S003_Variables/p002_print/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=9b682fe1fa2ce651300c6956888edce7">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -270,7 +270,7 @@
       </td>
       <td>:one:</td>
       <td>:key:</td>
-      <td><a href="https://github.com/AliRezaBoroujerdian/Course_Rust_2/blob/main/S003_Variables/p003_data_types/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=7ff1a7688ae7d435d2a344a97fb0970e">Try Online</a></td>
+      <td><a href="S003_Variables/p003_data_types/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=7ff1a7688ae7d435d2a344a97fb0970e">Try Online</a></td>
    </tr>
   <tr>
       <td>
@@ -282,7 +282,7 @@
       </td>
       <td>:two:</td>
       <td>:cookie:</td>
-      <td><a href="https://github.com/AliRezaBoroujerdian/Course_Rust_2/blob/main/S003_Variables/p004_type_alias/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=3cdf07db5187253e72e09a548704e28e">Try Online</a></td>
+      <td><a href="S003_Variables/p004_type_alias/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=3cdf07db5187253e72e09a548704e28e">Try Online</a></td>
    </tr>
   <tr>
       <td>
@@ -294,7 +294,7 @@
       </td>
       <td>:three:</td>
       <td>:cookie:</td>
-      <td><a href="https://github.com/AliRezaBoroujerdian/Course_Rust_2/blob/main/S003_Variables/p005_type_suffix/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=79d4c29af8f81d87f7454b6961701155">Try Online</a></td>
+      <td><a href="S003_Variables/p005_type_suffix/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=79d4c29af8f81d87f7454b6961701155">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -306,7 +306,7 @@
       </td>
       <td>:two:</td>
       <td>:key:</td>
-      <td><a href="https://github.com/AliRezaBoroujerdian/Course_Rust_2/blob/main/S003_Variables/p006_naming_conventions/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=9b8da0438ff3b751757abc11709f5790">Try Online</a></td>
+      <td><a href="S003_Variables/p006_naming_conventions/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=9b8da0438ff3b751757abc11709f5790">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -318,7 +318,7 @@
       </td>
       <td>:two:</td>
       <td>:key:</td>
-      <td><a href="https://github.com/AliRezaBoroujerdian/Course_Rust_2/blob/main/S003_Variables/p007_mutability/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=d80fc018379b1aa03d16a3680b1fd380">Try Online</a></td>
+      <td><a href="S003_Variables/p007_mutability/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=d80fc018379b1aa03d16a3680b1fd380">Try Online</a></td>
    </tr>
    <tr>
       <td>
