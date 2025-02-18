@@ -356,6 +356,30 @@
       <td>:key:</td>
       <td><a href="S003_Variables/p010_shadowing/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=daf54cf0cab245b8fd7493dfe0d41efe">Try Online</a></td>
    </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>پرسش ۱</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key:</td>
+      <td><a href="S003_Variables/q001_/README.md">Directory</a></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>پرسش ۲</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key:</td>
+      <td><a href="S003_Variables/q002_/README.md">Directory</a></td>
+   </tr>
    </tr>
    <tr>
       <td>
@@ -396,9 +420,9 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:three:</td>
       <td>:key:</td>
-      <td></td>
+      <td><a href="S004_ReadLine/p001_read_line/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=35c476fc13a09532da2e25a75fd04471">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -408,9 +432,9 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:three:</td>
       <td>:key:</td>
-      <td></td>
+      <td><a href="S004_ReadLine/p002_read_line_int/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=a721541aeb8a413f73445a973c79ca5d">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -422,7 +446,7 @@
       </td>
       <td>:two:</td>
       <td>:key:</td>
-      <td></td>
+      <td><a href="S004_ReadLine/p003_split/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=5a75a148a2faedfb93c99f7d64c11a64">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -434,7 +458,7 @@
       </td>
       <td>:two:</td>
       <td>:key:</td>
-      <td></td>
+      <td><a href="S004_ReadLine/p004_/README.md">Directory</a></td>
    </tr>
    <tr>
       <td>
