@@ -365,7 +365,7 @@
         </ul>
       </td>
       <td>:two:</td>
-      <td>:key:</td>
+      <td>:key::pencil2:</td>
       <td><a href="S003_Variables/q001_/README.md">Directory</a></td>
    </tr>
    <tr>
@@ -377,7 +377,7 @@
         </ul>
       </td>
       <td>:two:</td>
-      <td>:key:</td>
+      <td>:key::pencil2:</td>
       <td><a href="S003_Variables/q002_/README.md">Directory</a></td>
    </tr>
    </tr>
@@ -457,7 +457,7 @@
         </ul>
       </td>
       <td>:two:</td>
-      <td>:key:</td>
+      <td>:key: :pencil2:</td>
       <td><a href="S004_ReadLine/p004_/README.md">Directory</a></td>
    </tr>
    <tr>
@@ -491,7 +491,7 @@
         </ul>
       </td>
       <td>:two:</td>
-      <td></td>
+      <td>:pencil2:</td>
       <td><a href="S005_Operator/q001_">Directory</a></td>
    </tr>
    <tr>
