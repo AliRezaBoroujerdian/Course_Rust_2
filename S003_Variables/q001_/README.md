@@ -24,7 +24,7 @@
   <summary>درس منبع این سوال</summary>
 
 <div dir="rtl">
-Variable -> Data Types
+Variable -> Naming conventions
 </div>
 
 </details>
