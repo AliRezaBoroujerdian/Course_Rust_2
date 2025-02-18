@@ -479,8 +479,20 @@
         </ul>
       </td>
       <td>:two:</td>
-      <td>:key:</td>
       <td></td>
+      <td><a href="S005_Operator/p001_operator/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=96eac3f05ef417ec18678a778c89c8ce">Try Online</a></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>پرسش</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td></td>
+      <td><a href="S005_Operator/q001_">Directory</a></td>
    </tr>
    <tr>
       <td>
