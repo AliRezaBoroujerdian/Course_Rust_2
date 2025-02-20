@@ -512,9 +512,9 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
-      <td>:key:</td>
+      <td>:three:</td>
       <td></td>
+      <td><a href="S006_BooleanType/p001_boolean_type/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=833a97da1397e878fcfbb2d0b7a30738">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -524,9 +524,9 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
-      <td>:key:</td>
+      <td>:three:</td>
       <td></td>
+      <td><a href="S006_BooleanType/p002_logical_binary_operators/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=6e5c4177a79df793ab6ed349a7661302">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -536,9 +536,21 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:four:</td>
       <td>:key:</td>
-      <td></td>
+      <td><a href="S006_BooleanType/p003_lazy_boolean_operators/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=3e6c463d5fb2945a297a5a246d0de80e">Try Online</a></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>پرسش</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:pencil2:</td>
+      <td><a href="S006_BooleanType/q001_/README.md">Directory</a></td>
    </tr>
    <tr>
       <td>
