@@ -571,8 +571,13 @@
         </ul>
       </td>
       <td>:two:</td>
-      <td>:key:</td>
       <td></td>
+      <td><ol>
+        <li><a href="S007_ControlFlow/p001_if/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=8af513cce2c000962a41146706baff2c">Try Online</a></li>
+        <li><a href="S007_ControlFlow/p002_if_else/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=f71f3c62786f5d09987c32ed37415958">Try Online</a></li>
+        <li><a href="S007_ControlFlow/p003_else_if/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=5c676918c44a73ea9219d23d5b65602c">Try Online</a></li>
+        <ol> 
+       </td>
    </tr>
    <tr>
       <td>
@@ -584,43 +589,43 @@
       </td>
       <td>:two:</td>
       <td>:key:</td>
-      <td></td>
+      <td><a href="S007_ControlFlow/p004_let_if/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=c1c6b42e0cd2438ef0fa27b6777f56ca">Try Online</a></td>
    </tr>
    <tr>
       <td>
         <ul dir="rtl">
           <ul dir="rtl">
-          <li>تمرین</li>
+          <li>تمرین ۱</li>
           </ul>
         </ul>
       </td>
       <td>:two:</td>
-      <td>:key:</td>
       <td></td>
+      <td><a href="">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=11111">Try Online</a></td>
    </tr>
    <tr>
       <td>
         <ul dir="rtl">
           <ul dir="rtl">
-          <li>تمرین</li>
+          <li>تمرین ۲</li>
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
-      <td>:key:</td>
+      <td>:three:</td>
       <td></td>
+      <td><a href="">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=11111">Try Online</a></td>
    </tr>
    <tr>
       <td>
         <ul dir="rtl">
           <ul dir="rtl">
-          <li>تمرین</li>
+          <li>تمرین ۳</li>
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
-      <td>:key:</td>
+      <td>:three:</td>
       <td></td>
+      <td><a href="">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=11111">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -631,8 +636,8 @@
         </ul>
       </td>
       <td>:two:</td>
-      <td>:key:</td>
       <td></td>
+      <td><a href="">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=11111">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -642,9 +647,9 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
-      <td>:key:</td>
+      <td>:three:</td>
       <td></td>
+      <td><a href="">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=11111">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -654,9 +659,9 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:three:</td>
       <td>:key:</td>
-      <td></td>
+      <td><a href="">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=11111">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -666,9 +671,9 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:four:</td>
       <td>:key:</td>
-      <td></td>
+      <td><a href="">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=11111">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -678,21 +683,21 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:four:</td>
       <td>:key:</td>
-      <td></td>
+      <td><a href="">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=11111">Try Online</a></td>
    </tr>
    <tr>
       <td>
         <ul dir="rtl">
           <ul dir="rtl">
-          <li>تمرین</li>
+          <li>تمرین ۴</li>
           </ul>
         </ul>
       </td>
       <td>:two:</td>
-      <td>:key:</td>
       <td></td>
+      <td><a href="">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=11111">Try Online</a></td>
    </tr>
    <tr>
       <td>
