@@ -601,7 +601,7 @@
       </td>
       <td>:two:</td>
       <td></td>
-      <td><a href="">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=11111">Try Online</a></td>
+      <td><a href="S007_ControlFlow/p005_/README.md">Directory</a></td>
    </tr>
    <tr>
       <td>
@@ -613,7 +613,7 @@
       </td>
       <td>:three:</td>
       <td></td>
-      <td><a href="">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=11111">Try Online</a></td>
+      <td><a href="S007_ControlFlow/p006_/README.md">Directory</a></td>
    </tr>
    <tr>
       <td>
@@ -625,7 +625,7 @@
       </td>
       <td>:three:</td>
       <td></td>
-      <td><a href="">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=11111">Try Online</a></td>
+      <td><a href="S007_ControlFlow/p007_/README.md">Directory</a></td>
    </tr>
    <tr>
       <td>
@@ -697,7 +697,7 @@
       </td>
       <td>:two:</td>
       <td></td>
-      <td><a href="">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=11111">Try Online</a></td>
+      <td><a href="S007_ControlFlow/p020_/README.md">Directory</a></td>
    </tr>
    <tr>
       <td>
