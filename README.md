@@ -600,7 +600,7 @@
         </ul>
       </td>
       <td>:two:</td>
-      <td></td>
+      <td>:pencil2:</td>
       <td><a href="S007_ControlFlow/p005_/README.md">Directory</a></td>
    </tr>
    <tr>
@@ -612,7 +612,7 @@
         </ul>
       </td>
       <td>:three:</td>
-      <td></td>
+      <td>:pencil2:</td>
       <td><a href="S007_ControlFlow/p006_/README.md">Directory</a></td>
    </tr>
    <tr>
@@ -624,7 +624,7 @@
         </ul>
       </td>
       <td>:four:</td>
-      <td>:cookie:</td>
+      <td>:cookie: :pencil2:</td>
       <td><a href="S007_ControlFlow/p007_/README.md">Directory</a></td>
    </tr>
    <tr>
@@ -696,7 +696,7 @@
         </ul>
       </td>
       <td>:two:</td>
-      <td></td>
+      <td>:pencil2:</td>
       <td><a href="S007_ControlFlow/p020_/README.md">Directory</a></td>
    </tr>
    <tr>
@@ -768,7 +768,7 @@
         </ul>
       </td>
       <td>:two:</td>
-      <td></td>
+      <td>:pencil2:</td>
       <td><a href="S008_CompoundTypes/p006_/README.md">Directory</a></td>
    </tr>
    <tr>
@@ -838,6 +838,18 @@
         <li><a href="S009_Function/p007_function_return/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=7a7997d84112ff905437d7d576c2acdb">Try Online</a></li>
         <li><a href="S009_Function/p008_function_return_tuple/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=fbdd9dff300bc21027d6299003f2e10f">Try Online</a></li>
         <ol> </td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>تمرین</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key: :pencil2:</td>
+      <td><a href="S009_Function/p009_/README.md">Directory</a></td>
    </tr>
    <tr>
       <td>
