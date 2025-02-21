@@ -869,9 +869,9 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:three:</td>
       <td>:key:</td>
-      <td></td>
+      <td><a href="S010_Ownership/p001_intro/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=94a89a7dc540e9f7b70c1f417835b0f1">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -881,9 +881,9 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:five:</td>
       <td>:key:</td>
-      <td></td>
+      <td><a href="S010_Ownership/p002_stack_heap/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=fb84a8866e46c121ceebb5e0f1f0fb04">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -893,8 +893,8 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
-      <td>:key:</td>
+      <td>:four:</td>
+      <td>:cookie:</td>
       <td></td>
    </tr>
    <tr>
@@ -905,9 +905,9 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:five:</td>
       <td>:key:</td>
-      <td></td>
+      <td><a href="S010_Ownership/p003_clone/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=d4dc6d2e91ed4f21ab3ec14e7c5572df">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -917,9 +917,12 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:six:</td>
       <td>:key:</td>
-      <td></td>
+      <td><ol>
+        <li><a href="S010_Ownership/p004_ownership_and_function/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=ebcd05aad0fb49fee815087efaa08c88">Try Online</a></li>
+        <li><a href="S010_Ownership/p005_ownership_and_function/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=374aad13251e3e197a5b8bd9a4c033e3">Try Online</a></li>
+        <ol> </td>
    </tr>
    <tr>
       <td>
@@ -929,9 +932,9 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:six:</td>
       <td>:key:</td>
-      <td></td>
+      <td><a href="S010_Ownership/p006_borrowing/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=c6c630c8fe0fbedec2b899636faeec84">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -941,9 +944,9 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:five:</td>
       <td>:key:</td>
-      <td></td>
+      <td><a href="S010_Ownership/p007_mutable_references/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=29e87b0f286d210d348be641d63eaf51">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -953,9 +956,13 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:six:</td>
       <td>:key:</td>
-      <td></td>
+      <td><ol>
+        <li><a href="S010_Ownership/p008_mutable_references/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=bb1d3844413e811f0805cf7d2921a8e0">Try Online</a></li>
+        <li><a href="S010_Ownership/p009_mutable_references/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=093d79acd166fc476b4cea317aad9af1">Try Online</a></li>
+        <li><a href="S010_Ownership/p010_dangling_references/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=bc2e25382498c16af83cc562cf4f14ce">Try Online</a></li>
+        <ol> </td>
    </tr>
    <tr>
       <td>
@@ -965,9 +972,12 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:six:</td>
       <td>:key:</td>
-      <td></td>
+      <td><ol>
+        <li><a href="S010_Ownership/p011_dereference/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=ef298547a9b687704ecd9b92901257b9">Try Online</a></li>
+        <li><a href="S010_Ownership/p012_dereference/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=3bc9b77208c801f739a44aa2f474d2ae">Try Online</a></li>
+        <ol> </td>
    </tr>
    <tr>
       <td>
@@ -977,9 +987,9 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:six:</td>
       <td>:key:</td>
-      <td></td>
+      <td><a href="S010_Ownership/p013_/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=50d439ad201e420dec42a8d16cc92bbb">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -989,9 +999,9 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
-      <td>:key:</td>
-      <td></td>
+      <td>:five:</td>
+      <td>:key: :pencil2:</td>
+      <td><a href="S010_Ownership/p018_/README.md">Directory</a></a></td>
    </tr>
    <tr>
       <td>
@@ -1001,9 +1011,14 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:five:</td>
       <td>:key:</td>
-      <td></td>
+      <td><ol>
+        <li><a href="S010_Ownership/p014_slice/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=9616cf9615a1a59b574688e85f57c09c">Try Online</a></li>
+        <li><a href="S010_Ownership/p015_slice/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=538fc74c5991829c49da201cda391ade">Try Online</a></li>
+        <li><a href="S010_Ownership/p016_slice_function/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=184f4482123e5af412b826e3ba75510b">Try Online</a></li>
+        <li><a href="S010_Ownership/p017_slice_array/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=cbcfe9f7b87818f30a0c761091a31aee">Try Online</a></li>
+        <ol> </td>
    </tr>
    <tr>
       <td>
