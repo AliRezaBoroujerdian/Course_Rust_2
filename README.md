@@ -813,9 +813,15 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
-      <td>:key:</td>
+      <td>:three:</td>
       <td></td>
+      <td><ol>
+        <li><a href="S009_Function/p001_function/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=721a4789992b0e196bc5c1e6742e5a45">Try Online</a></li>
+        <li><a href="S009_Function/p002_function/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=25830a37e1ab6e1a517aa98c999c3c30">Try Online</a></li>
+        <li><a href="S009_Function/p003_function_parameter/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=57d065173c88d3b81e20bcd2836c1c25">Try Online</a></li>
+        <li><a href="S009_Function/p004_function_parameters/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=91e8dabb877259c59b75cd544723dba8">Try Online</a></li>
+        <li><a href="S009_Function/p005_function_parameters_mut/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=4006d33648a09416c5060232ae995312">Try Online</a></li>
+        <ol> </td>
    </tr>
    <tr>
       <td>
@@ -825,9 +831,13 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:four:</td>
       <td>:key:</td>
-      <td></td>
+      <td><ol>
+        <li><a href="S009_Function/p006_function_return/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=5b3657f197f59ecac6bf333f4494fcb3">Try Online</a></li>
+        <li><a href="S009_Function/p007_function_return/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=7a7997d84112ff905437d7d576c2acdb">Try Online</a></li>
+        <li><a href="S009_Function/p008_function_return_tuple/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=fbdd9dff300bc21027d6299003f2e10f">Try Online</a></li>
+        <ol> </td>
    </tr>
    <tr>
       <td>
