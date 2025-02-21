@@ -739,9 +739,13 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
-      <td>:key:</td>
+      <td>:three:</td>
       <td></td>
+       <td><ol>
+        <li><a href="S008_CompoundTypes/p001_array/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=719f00347ebfaee50763a5d156b33636">Try Online</a></li>
+        <li><a href="S008_CompoundTypes/p002_array/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=bb8079ac1b5268ad5bd6812710128ea3">Try Online</a></li>
+        <ol> 
+       </td>
    </tr>
    <tr>
       <td>
@@ -751,9 +755,9 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
-      <td>:key:</td>
+      <td>:three:</td>
       <td></td>
+      <td><a href="S008_CompoundTypes/p003_for/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=c091d67e32443b00cec0fe14c3075ae8">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -764,8 +768,8 @@
         </ul>
       </td>
       <td>:two:</td>
-      <td>:key:</td>
       <td></td>
+      <td><a href="S008_CompoundTypes/p006_/README.md">Directory</a></td>
    </tr>
    <tr>
       <td>
@@ -775,21 +779,21 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:three:</td>
       <td>:key:</td>
-      <td></td>
+      <td><a href="S008_CompoundTypes/p004_tuple/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=99edb92cedc411b9084e91366f8dbd66">Try Online</a></td>
    </tr>
    <tr>
       <td>
         <ul dir="rtl">
           <ul dir="rtl">
-          <li>Nested Tuple اختیاری</li>
+          <li>Nested Tuple</li>
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
-      <td>:key:</td>
-      <td></td>
+      <td>:three:</td>
+      <td>:cookie:</td>
+      <td><a href="S008_CompoundTypes/p005_nested_tuple/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=53d2e7d087c94ab405dbe623dc0d3fee">Try Online</a></td>
    </tr>
    <tr>
       <td>
