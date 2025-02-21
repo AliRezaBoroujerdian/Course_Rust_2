@@ -1023,6 +1023,30 @@
    <tr>
       <td>
         <ul dir="rtl">
+          <ul dir="rtl">
+          <li>پرسش ۱</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key: :pencil2:</td>
+      <td><a href="S010_Ownership/q001_/README.md">Directory</a></a></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
+          <ul dir="rtl">
+          <li>پرسش ۲</li>
+          </ul>
+        </ul>
+      </td>
+      <td>:two:</td>
+      <td>:key: :pencil2:</td>
+      <td><a href="S010_Ownership/q002_/README.md">Directory</a></a></td>
+   </tr>
+   <tr>
+      <td>
+        <ul dir="rtl">
           <li>Struct</li>
         </ul>
       </td>
