@@ -1062,9 +1062,12 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
-      <td>:key:</td>
+      <td>:three:</td>
       <td></td>
+      <td><ol>
+        <li><a href="S011_Struct/p001_struct/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=57ca252ffa3dee3a2f1a2083d488c358">Try Online</a></li>
+        <li><a href="S011_Struct/p002_struct/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=dcf3f868cc3f849abc4f07995e0123bb">Try Online</a></li>
+        <ol> </td>
    </tr>
    <tr>
       <td>
@@ -1074,9 +1077,12 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:three:</td>
       <td>:key:</td>
-      <td></td>
+      <td><ol>
+        <li><a href="S011_Struct/p003_tuple_struct/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=ef35cb7a5c66f74b591e45cf26abd070">Try Online</a></li>
+        <li><a href="S011_Struct/p004_unit_Like_Struct/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=e59652fa89abb745d33a9649b368b243">Try Online</a></li>
+        <ol> </td>
    </tr>
    <tr>
       <td>
@@ -1086,9 +1092,9 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
-      <td>:key:</td>
-      <td></td>
+      <td>:three:</td>
+      <td>:cookie:</td>
+      <td><a href="S011_Struct/p005_creating_instances_from_other_instances/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=ec586c0d260cae6eef767495b5caa22f">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -1098,9 +1104,9 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:five:</td>
       <td>:key:</td>
-      <td></td>
+      <td><a href="S011_Struct/p006_method/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=37ab28413ffb63a4a8bf17293da94fb7">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -1110,9 +1116,9 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:four:</td>
       <td>:key:</td>
-      <td></td>
+      <td><a href="S011_Struct/p007_constructor/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=169d2f8ef1b772f097ea022a44c8a71b">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -1122,9 +1128,9 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
-      <td>:key:</td>
-      <td></td>
+      <td>:four:</td>
+      <td>:cookie:</td>
+      <td><a href="S011_Struct/p008_method_cascading/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=88d952755868b7d4ec142b328b66ae08">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -1134,9 +1140,9 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
-      <td>:key:</td>
-      <td></td>
+      <td>:five:</td>
+      <td>:key: :pencil2:</td>
+      <td><a href="S011_Struct/p009_/README.md">Directory</a></td>
    </tr>
    <tr>
       <td>
