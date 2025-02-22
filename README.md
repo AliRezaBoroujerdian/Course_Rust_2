@@ -1179,7 +1179,13 @@
       </td>
       <td>:three:</td>
       <td>:key:</td>
-      <td></td>
+      <td><ol>
+        <li><a href="S013_Match/p001_match/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=47c93c9fc8e6795a0a8fa4e496269651">Try Online</a></li>
+        <li><a href="S013_Match/p002_match/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=c1a7ac9a57281b78bd5e0e3c3ab63f1c">Try Online</a></li>
+        <li><a href="S013_Match/p003_match/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=13b9bc639bb20ec8e6fc9e70cdf19b17">Try Online</a></li>
+        <li><a href="S013_Match/p004_match/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=0bcdf0769336bdeffff33abc906dff7d">Try Online</a></li>
+        <li><a href="S013_Match/p005_match/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=8e6b4825bb5de3859a5346b85f90e290">Try Online</a></li>
+        <ol> </td>
    </tr>
    <tr>
       <td>
@@ -1191,7 +1197,10 @@
       </td>
       <td>:four:</td>
       <td>:key:</td>
-      <td></td>
+      <td><ol>
+        <li><a href="S014_Option/p001_option/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=4ff125ac68f988c0a2c21852e673df84">Try Online</a></li>
+        <li><a href="S014_Option/p002_option/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=707bce884bbab1b23d34be6ac3cddf4f">Try Online</a></li>
+        <ol> </td>
    </tr>
    <tr>
       <td>
@@ -1203,7 +1212,7 @@
       </td>
       <td>:four:</td>
       <td>:key:</td>
-      <td></td>
+      <td><a href="S015_IfLet/p001_if_let/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=eb7752e91180d56eb61745b3c4905804">Try Online</a></td>
    </tr>
    <tr>
       <td>
