@@ -1333,9 +1333,9 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:four:</td>
       <td>:key:</td>
-      <td></td>
+      <td><a href="S018_Format/p001_format/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=99cd7f1238891010fcec56f0d18d8b9e">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -1355,9 +1355,9 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:three:</td>
       <td>:key:</td>
-      <td></td>
+      <td><a href="S019_Crates/p001_rand/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=a94567f02c84d0a76342f26651da7a98">Try Online</a></td>
    </tr>
    <tr>
       <td>
@@ -1367,9 +1367,12 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:three:</td>
       <td>:key:</td>
-      <td></td>
+      <td><ol>
+        <li><a href="S020_Use/p001_use/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=b2484d1d53867b24c184a385fbd7759a">Try Online</a></li>
+        <li><a href="S020_Use/p002_use/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=535dbf4348157efd4641d14a3e55f5a6">Try Online</a></li>
+        <ol> </td>
    </tr>
    <tr>
       <td>
@@ -1391,7 +1394,7 @@
       </td>
       <td>:two:</td>
       <td>:key:</td>
-      <td></td>
+      <td><a href="S021_Copilot/p001_copilot/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=4e6bb9744d3a6ee07ebd85978c8e0163">Try Online</a></td>
    </tr>
    <tr>
       <td>
