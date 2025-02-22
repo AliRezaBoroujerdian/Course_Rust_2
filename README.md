@@ -1162,9 +1162,12 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:three:</td>
       <td>:key:</td>
-      <td></td>
+      <td><ol>
+        <li><a href="S012_Enum/p001_enum/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=338d041f8c87aaa746551ef14653ad63">Try Online</a></li>
+        <li><a href="S012_Enum/p002_enum/src/main.rs">Directory</a>-<a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=5d9f3f80705fb5a8925b107b78810dc6">Try Online</a></li>
+        <ol> </td>
    </tr>
    <tr>
       <td>
@@ -1174,7 +1177,7 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:three:</td>
       <td>:key:</td>
       <td></td>
    </tr>
@@ -1186,7 +1189,7 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:four:</td>
       <td>:key:</td>
       <td></td>
    </tr>
@@ -1198,7 +1201,7 @@
           </ul>
         </ul>
       </td>
-      <td>:two:</td>
+      <td>:four:</td>
       <td>:key:</td>
       <td></td>
    </tr>
