@@ -4,6 +4,11 @@
 <br />
 <br />
 
+### سرفصل‌های دوره‌ی آموزشی زبان برنامه‌نویسی راست |‌ Rust Bootcamp در مکتب‌خونه. (<a href="https://boroujerdian.com/RustBootcampAffiliate">لینک خرید</a>) 
+
+<br />
+<br />
+
 <div dir="rtl">
   <table border="0" dir="rtl">
    <tr>
