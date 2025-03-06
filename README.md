@@ -1,4 +1,4 @@
-<h1 align="center">Rust Course 02 - <a href="">Maktabkhooneh</a></h1> by AliReza Boroujerdian
+<h1 align="center">Rust Course 02 - <a href="https://boroujerdian.com/RustBootcampAffiliate">Maktabkhooneh</a></h1> by AliReza Boroujerdian
 
 
 <br />
